@@ -1,0 +1,17 @@
+D:\Дисциплины\ПСП\Client\bin\Debug\Client.exe.config
+D:\Дисциплины\ПСП\Client\bin\Debug\Client.exe
+D:\Дисциплины\ПСП\Client\bin\Debug\Client.pdb
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.LoginForm.resources
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.MainForm.resources
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.RegisterForm.resources
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.exe
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.pdb
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.AddTestForm.resources
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.QuestionControl.resources
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.AnswerControl.resources
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.EditTestForm.resources
+D:\Дисциплины\ПСП\Client\obj\Debug\Client.TestForm.resources
